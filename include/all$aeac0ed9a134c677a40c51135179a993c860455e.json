@@ -1,0 +1,3347 @@
+{
+    "packages": {
+        "aligent/brands": {
+            "dev-Aligent_Brand": {
+                "name": "aligent/brands",
+                "version": "dev-Aligent_Brand",
+                "version_normalized": "dev-Aligent_Brand",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "6172dc4aba9162a985229126f4544a4434fd75ce"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-02 06:51:52",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Aligent Brands Module"
+            }
+        },
+        "aligent/cacheobserver": {
+            "1.0.0": {
+                "name": "aligent/cacheobserver",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "42cbc4a2ede00ad7fa7296f6d0f1613e132360ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/42cbc4a2ede00ad7fa7296f6d0f1613e132360ea",
+                    "reference": "42cbc4a2ede00ad7fa7296f6d0f1613e132360ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-18 06:14:22",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/1.0.0",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "1.0.1": {
+                "name": "aligent/cacheobserver",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-09 04:56:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/1.0.1",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "2.0.x-dev": {
+                "name": "aligent/cacheobserver",
+                "version": "2.0.x-dev",
+                "version_normalized": "2.0.9999999.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "a4c968fb110f7a571139980c62e5f1de0b8d47c4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/a4c968fb110f7a571139980c62e5f1de0b8d47c4",
+                    "reference": "a4c968fb110f7a571139980c62e5f1de0b8d47c4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "~2.0.0"
+                },
+                "require-dev": {
+                    "composer/composer": "~1.0@dev",
+                    "ecomdev/mage-ci": "dev-master",
+                    "phing/phing": "~2.11@dev",
+                    "phpunit/phpunit": "4.1.x-dev",
+                    "punkstar/mageqa": "dev-aligent"
+                },
+                "time": "2015-05-14 01:53:32",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/v2.0",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-master": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "42cbc4a2ede00ad7fa7296f6d0f1613e132360ea"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/42cbc4a2ede00ad7fa7296f6d0f1613e132360ea",
+                    "reference": "42cbc4a2ede00ad7fa7296f6d0f1613e132360ea",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-18 06:14:22",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/1.0.0",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-bugfix/template_in_product_block": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-bugfix/template_in_product_block",
+                "version_normalized": "dev-bugfix/template_in_product_block",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "08c913cc179b61db398fcedc909c74cb9d101d06"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/08c913cc179b61db398fcedc909c74cb9d101d06",
+                    "reference": "08c913cc179b61db398fcedc909c74cb9d101d06",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-18 04:30:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/bugfix/template_in_product_block",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-enterprise-targetrule-item-fix": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-enterprise-targetrule-item-fix",
+                "version_normalized": "dev-enterprise-targetrule-item-fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "8a920140c14fd6f37116375da4eeece0fa14d2b0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/8a920140c14fd6f37116375da4eeece0fa14d2b0",
+                    "reference": "8a920140c14fd6f37116375da4eeece0fa14d2b0",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-13 00:38:35",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/enterprise-targetrule-item-fix",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-feature/form_key": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-feature/form_key",
+                "version_normalized": "dev-feature/form_key",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "dfbba0259c221d69db1ffbc9ec3e13e49c1b670b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/dfbba0259c221d69db1ffbc9ec3e13e49c1b670b",
+                    "reference": "dfbba0259c221d69db1ffbc9ec3e13e49c1b670b",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-16 00:59:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/feature/form_key",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-feature/group-product-display": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-feature/group-product-display",
+                "version_normalized": "dev-feature/group-product-display",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "402304e8b69690ee976ac3ca2800979aa4bb4c9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/402304e8b69690ee976ac3ca2800979aa4bb4c9a",
+                    "reference": "402304e8b69690ee976ac3ca2800979aa4bb4c9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-28 07:57:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/feature/group-product-display",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-improvement/disable-block-cache-search-result": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-improvement/disable-block-cache-search-result",
+                "version_normalized": "dev-improvement/disable-block-cache-search-result",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "9d2d8971f2f75e308058e0e584b779c58f807811"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/9d2d8971f2f75e308058e0e584b779c58f807811",
+                    "reference": "9d2d8971f2f75e308058e0e584b779c58f807811",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-17 05:59:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/improvement/disable-block-cache-search-result",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-models": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-models",
+                "version_normalized": "dev-models",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "reference": "75daed7cb82ec66956dcfc9a54cf6f27c3c3bd9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-09 04:56:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/1.0.1",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-remove-crosssell-caching": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-remove-crosssell-caching",
+                "version_normalized": "dev-remove-crosssell-caching",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "0e69b97df638d6faba2774347b4dac937060d526"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/0e69b97df638d6faba2774347b4dac937060d526",
+                    "reference": "0e69b97df638d6faba2774347b4dac937060d526",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-15 07:10:56",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/remove-crosssell-caching",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            },
+            "dev-review_list_pagination_fix": {
+                "name": "aligent/cacheobserver",
+                "version": "dev-review_list_pagination_fix",
+                "version_normalized": "dev-review_list_pagination_fix",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/CacheObserver.git",
+                    "reference": "8edcd2444a19077fc4dbc7fbb6c8956039a3df27"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/CacheObserver/zipball/8edcd2444a19077fc4dbc7fbb6c8956039a3df27",
+                    "reference": "8edcd2444a19077fc4dbc7fbb6c8956039a3df27",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-03-18 06:07:41",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to add cache keys and tags to blocks that are not cached by default.",
+                "homepage": "https://github.com/aligent/CacheObserver",
+                "support": {
+                    "source": "https://github.com/aligent/CacheObserver/tree/review_list_pagination_fix",
+                    "issues": "https://github.com/aligent/CacheObserver/issues"
+                }
+            }
+        },
+        "aligent/eavwidget": {
+            "dev-eavwidget": {
+                "name": "aligent/eavwidget",
+                "version": "dev-eavwidget",
+                "version_normalized": "dev-eavwidget",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "7453d0f619c2a49717e951710f0c94182f1bd24b"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
+                },
+                "time": "2015-05-05 06:09:26",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "All Rights Reserved"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew O'Loughlin",
+                        "email": "matthew@aligent.com.au"
+                    }
+                ],
+                "description": "EAV Widgets with scoping"
+            },
+            "dev-wip-eavwidget-review": {
+                "name": "aligent/eavwidget",
+                "version": "dev-wip-eavwidget-review",
+                "version_normalized": "dev-wip-eavwidget-review",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "640dc3fa313640fa30deecbf2f5c6e38a41620e4"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "require-dev": {
+                    "ivanchepurnyi/ecomdev_phpunit": "dev-dev"
+                },
+                "time": "2015-04-29 04:25:30",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "All Rights Reserved"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew O'Loughlin",
+                        "email": "matthew@aligent.com.au"
+                    }
+                ],
+                "description": "EAV Widgets with scoping"
+            }
+        },
+        "aligent/ga_eventtracking": {
+            "dev-ga/custom_tracking": {
+                "name": "aligent/ga_eventtracking",
+                "version": "dev-ga/custom_tracking",
+                "version_normalized": "dev-ga/custom_tracking",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "88e14ecf0f1171a002d01bbf78d4321b07262578"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-30 00:42:24",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow adding custom tracking code from admin",
+                "homepage": "https://git.assembla.com/aligent.magefeatures.git"
+            },
+            "dev-ga/custom_tracking-gtm": {
+                "name": "aligent/ga_eventtracking",
+                "version": "dev-ga/custom_tracking-gtm",
+                "version_normalized": "dev-ga/custom_tracking-gtm",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "c21a36af13d1c921d1cf56b9c7383fc43dcc6c8f"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-07-21 06:16:33",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Allow adding custom tracking code from admin",
+                "homepage": "https://git.assembla.com/aligent.magefeatures.git"
+            }
+        },
+        "aligent/gwp-ruleprices": {
+            "dev-feature/gwp/ruleprices/unitests": {
+                "name": "aligent/gwp-ruleprices",
+                "version": "dev-feature/gwp/ruleprices/unitests",
+                "version_normalized": "dev-feature/gwp/ruleprices/unitests",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "3b4937563f57801d9daee945a70d8e4a7c7bd2a2"
+                },
+                "time": "2014-04-29 06:32:13",
+                "type": "magento-module",
+                "description": "Gift With Purchase extension"
+            },
+            "dev-gwp/ruleprices": {
+                "name": "aligent/gwp-ruleprices",
+                "version": "dev-gwp/ruleprices",
+                "version_normalized": "dev-gwp/ruleprices",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "75de6c6700b61134ba3d50f31e77ed1d3c3e2b72"
+                },
+                "time": "2014-06-30 02:16:31",
+                "type": "magento-module",
+                "description": "Gift With Purchase extension"
+            },
+            "dev-gwp/ruleprices_aftercart": {
+                "name": "aligent/gwp-ruleprices",
+                "version": "dev-gwp/ruleprices_aftercart",
+                "version_normalized": "dev-gwp/ruleprices_aftercart",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "2ebeb031606f490e6a3c5fcb87f97e21a5d72025"
+                },
+                "time": "2015-03-24 22:58:13",
+                "type": "magento-module",
+                "description": "Gift With Purchase extension"
+            },
+            "dev-improvement/gwp/ruleprices/show-additional-data-on-last-product": {
+                "name": "aligent/gwp-ruleprices",
+                "version": "dev-improvement/gwp/ruleprices/show-additional-data-on-last-product",
+                "version_normalized": "dev-improvement/gwp/ruleprices/show-additional-data-on-last-product",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "33945dbded5425eff040180a165294b06c4110f0"
+                },
+                "time": "2015-03-23 03:43:51",
+                "type": "magento-module",
+                "description": "Gift With Purchase extension"
+            }
+        },
+        "aligent/mage-enhanced-admin-grids": {
+            "0.8.9.x-dev": {
+                "name": "aligent/mage-enhanced-admin-grids",
+                "version": "0.8.9.x-dev",
+                "version_normalized": "0.8.9.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/mage-enhanced-admin-grids.git",
+                    "reference": "f9b54ec78a51170e3846ad24b62b18347ffe3d18"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/mage-enhanced-admin-grids/zipball/f9b54ec78a51170e3846ad24b62b18347ffe3d18",
+                    "reference": "f9b54ec78a51170e3846ad24b62b18347ffe3d18",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-28 05:52:11",
+                "type": "magento-module",
+                "description": "Enhanced Admin Grids extension for Magento.",
+                "homepage": "https://github.com/aligent/mage-enhanced-admin-grids",
+                "support": {
+                    "source": "https://github.com/aligent/mage-enhanced-admin-grids/tree/0.8.9"
+                }
+            },
+            "0.9.0.x-dev": {
+                "name": "aligent/mage-enhanced-admin-grids",
+                "version": "0.9.0.x-dev",
+                "version_normalized": "0.9.0.9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/mage-enhanced-admin-grids.git",
+                    "reference": "48bec85e36f3323449a99140e3abf6e131b1ed72"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/mage-enhanced-admin-grids/zipball/48bec85e36f3323449a99140e3abf6e131b1ed72",
+                    "reference": "48bec85e36f3323449a99140e3abf6e131b1ed72",
+                    "shasum": ""
+                },
+                "time": "2014-04-17 05:18:19",
+                "type": "magento-module",
+                "description": "Enhanced Admin Grids Extension for Magento",
+                "support": {
+                    "source": "https://github.com/aligent/mage-enhanced-admin-grids/tree/0.9.0"
+                }
+            }
+        },
+        "aligent/mageblog": {
+            "dev-mageblog": {
+                "name": "aligent/mageblog",
+                "version": "dev-mageblog",
+                "version_normalized": "dev-mageblog",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "604776f9d67e73c748190966d3f86e76867084a1"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-31 04:36:17",
+                "type": "magento-module",
+                "extra": {
+                    "magento-root-dir": "."
+                },
+                "license": [
+                    "All Rights Reserved"
+                ],
+                "authors": [
+                    {
+                        "name": "Matthew O'Loughlin",
+                        "email": "matthew@aligent.com.au"
+                    }
+                ],
+                "description": "A Magento Blog"
+            }
+        },
+        "aligent/mageboiler": {
+            "0.1.0": {
+                "name": "aligent/mageboiler",
+                "version": "0.1.0",
+                "version_normalized": "0.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "5a549f6003dee1cae677c0b6d261719b9afd3da6"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-12 01:20:02",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "0.1.1": {
+                "name": "aligent/mageboiler",
+                "version": "0.1.1",
+                "version_normalized": "0.1.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "703b64faf323f65e3c4279a56357e1173a31cafc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-05 06:01:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "1.0.0": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.0",
+                "version_normalized": "1.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "d49ede6666da678d88a0eb8c2ef81fc126da80ee"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-09 00:43:51",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "1.0.1": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.1",
+                "version_normalized": "1.0.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "18c49bf93bf83634fe3477979188a784766cce22"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-05 06:11:38",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "1.0.10": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.10",
+                "version_normalized": "1.0.10.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "b0816cba675785027c1849c6eb0adebeb5e979f7"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-20 01:27:33",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.11": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.11",
+                "version_normalized": "1.0.11.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "d03c003e57a7abf87f943e5ae773d64e69a21976"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-20 07:07:00",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.12": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.12",
+                "version_normalized": "1.0.12.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "dce7eda83de55acd1bf002e67ccec91378ceb90d"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-23 00:39:30",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.13": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.13",
+                "version_normalized": "1.0.13.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "95204d9d33ba5358acfcf876f9855c09582fab9a"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-23 04:56:57",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.14": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.14",
+                "version_normalized": "1.0.14.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "05fc1cad9fe0e2ceaea36dbddf575217f91af1be"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-27 05:35:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.15": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.15",
+                "version_normalized": "1.0.15.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "1a60c3486db2143e9c5f7ad55bf9a7af47115389"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-27 09:56:57",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.16": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.16",
+                "version_normalized": "1.0.16.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "0128fbc2140263a7bb8650a9772c3eeb34e0e534"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-30 07:28:23",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.17": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.17",
+                "version_normalized": "1.0.17.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "eb0699390f427705b8b043f1f08d081a9821780c"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-03 02:27:37",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.18": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.18",
+                "version_normalized": "1.0.18.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "8fe9dcac418322e5ca34abc48cf94d90015a2f12"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-04 02:23:38",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.19": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.19",
+                "version_normalized": "1.0.19.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "0737b5502b61a28ee446b9cb915e42c617d27c1f"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-10 02:14:02",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.2": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.2",
+                "version_normalized": "1.0.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "f81fa9cef7d0822d3bc1b981f67d3f9871be0403"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-09 01:20:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.20": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.20",
+                "version_normalized": "1.0.20.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "0883a9ab001a0409ad6bccd1e205146f276c416e"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-10 07:10:42",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.21": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.21",
+                "version_normalized": "1.0.21.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "2cef0235fc92f070aaab75e86e303af97432edaf"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-24 04:31:13",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.3": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.3",
+                "version_normalized": "1.0.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "49cbb09881a9bfe196633209106a3ce654764e89"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-12 06:08:40",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.4": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.4",
+                "version_normalized": "1.0.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "48a178db94b2019d259f33a70f9fdb48bbe439c6"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-13 05:26:22",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.5": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.5",
+                "version_normalized": "1.0.5.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "280ab530396a1402499cb2f4ac47e9255466dcf7"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-13 06:12:26",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.6": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.6",
+                "version_normalized": "1.0.6.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "1958f4865a60645d7f59a16a5aa7f4bc39867f4b"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-14 06:21:54",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.7": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.7",
+                "version_normalized": "1.0.7.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "589ed0ef14846eb396d0da6f3dfd6341fbd4ca34"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-15 01:31:04",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.8": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.8",
+                "version_normalized": "1.0.8.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "173ea2576e8f12c45ecfe899a5175f110c092315"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-15 07:07:50",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "1.0.9": {
+                "name": "aligent/mageboiler",
+                "version": "1.0.9",
+                "version_normalized": "1.0.9.0",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "a461f2a83ecac9d10c0045dad012be875d53e75d"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-20 01:19:13",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "dev-master": {
+                "name": "aligent/mageboiler",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "6e5c87b08f9b9e0fdc0555bdab17c18a788096a0"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/recursive",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-06-24 06:09:14",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "dev-fixes-0.1.1": {
+                "name": "aligent/mageboiler",
+                "version": "dev-fixes-0.1.1",
+                "version_normalized": "dev-fixes-0.1.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "703b64faf323f65e3c4279a56357e1173a31cafc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-05 06:01:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "dev-fixes-1.0.1": {
+                "name": "aligent/mageboiler",
+                "version": "dev-fixes-1.0.1",
+                "version_normalized": "dev-fixes-1.0.1",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "18c49bf93bf83634fe3477979188a784766cce22"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-05 06:11:38",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "dev-iom/develop": {
+                "name": "aligent/mageboiler",
+                "version": "dev-iom/develop",
+                "version_normalized": "dev-iom/develop",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "f27e596d325876ddf8fd0555bf1eacf3df3bb4f3"
+                },
+                "require": {
+                    "hws47a/vf-custom-menu": "dev-feature/expandable-sub-nav",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-07-21 07:12:21",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers",
+                "homepage": "http://aligent.com.au"
+            },
+            "dev-responsive/cart": {
+                "name": "aligent/mageboiler",
+                "version": "dev-responsive/cart",
+                "version_normalized": "dev-responsive/cart",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "9957cc042b43c5efc56c4e9c571d5409016fc1cd"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-11 01:51:21",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "dev-responsive/checkout": {
+                "name": "aligent/mageboiler",
+                "version": "dev-responsive/checkout",
+                "version_normalized": "dev-responsive/checkout",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "f5cb041972a7237eb09960b48661da306f56f1ca"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-10 07:05:37",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "dev-responsive/header-and-footer": {
+                "name": "aligent/mageboiler",
+                "version": "dev-responsive/header-and-footer",
+                "version_normalized": "dev-responsive/header-and-footer",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "a8b4e1434a4b0c5403976750cf1e82f925755b02"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-11 02:24:58",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            },
+            "dev-responsive/product-category": {
+                "name": "aligent/mageboiler",
+                "version": "dev-responsive/product-category",
+                "version_normalized": "dev-responsive/product-category",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.mageboiler.git",
+                    "reference": "1654b1ca605d6e3e57614bdea73af69492cd9d7d"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-04-10 02:30:48",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento Boilerplate with responsive starter theme, along with other project startup helpers"
+            }
+        },
+        "aligent/magento-attribute-option-image": {
+            "dev-master": {
+                "name": "aligent/magento-attribute-option-image",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-attribute-option-image.git",
+                    "reference": "5852bd279adcbad3cb1d3b0823574ec8253f3f58"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-attribute-option-image/zipball/5852bd279adcbad3cb1d3b0823574ec8253f3f58",
+                    "reference": "5852bd279adcbad3cb1d3b0823574ec8253f3f58",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-05-30 05:27:45",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Add images/icons to attribute options of your Magento products",
+                "homepage": "https://github.com/aligent/magento-attribute-option-image.git",
+                "support": {
+                    "source": "https://github.com/aligent/magento-attribute-option-image/tree/master"
+                }
+            },
+            "dev-feature/hex-value": {
+                "name": "aligent/magento-attribute-option-image",
+                "version": "dev-feature/hex-value",
+                "version_normalized": "dev-feature/hex-value",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-attribute-option-image.git",
+                    "reference": "b7bd3aa6ceaa33b338acc2dd08bb8ce2bb4c754d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-attribute-option-image/zipball/b7bd3aa6ceaa33b338acc2dd08bb8ce2bb4c754d",
+                    "reference": "b7bd3aa6ceaa33b338acc2dd08bb8ce2bb4c754d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-19 00:07:14",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Add images/icons to attribute options of your Magento products",
+                "homepage": "https://github.com/aligent/magento-attribute-option-image.git",
+                "support": {
+                    "source": "https://github.com/aligent/magento-attribute-option-image/tree/feature/hex-value"
+                }
+            },
+            "dev-feature/nu": {
+                "name": "aligent/magento-attribute-option-image",
+                "version": "dev-feature/nu",
+                "version_normalized": "dev-feature/nu",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-attribute-option-image.git",
+                    "reference": "30cb0ff219b74ee5cf7c043d3bae39bee58b75cf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-attribute-option-image/zipball/30cb0ff219b74ee5cf7c043d3bae39bee58b75cf",
+                    "reference": "30cb0ff219b74ee5cf7c043d3bae39bee58b75cf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-24 01:19:43",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Add images/icons to attribute options of your Magento products",
+                "homepage": "https://github.com/aligent/magento-attribute-option-image.git",
+                "support": {
+                    "source": "https://github.com/aligent/magento-attribute-option-image/tree/feature/nu"
+                }
+            }
+        },
+        "aligent/magento-securepay": {
+            "dev-master": {
+                "name": "aligent/magento-securepay",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Magento-SecurePay.git",
+                    "reference": "0ca1ef188bc7f1103527d00846324e6f3f22b243"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Magento-SecurePay/zipball/0ca1ef188bc7f1103527d00846324e6f3f22b243",
+                    "reference": "0ca1ef188bc7f1103527d00846324e6f3f22b243",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-23 00:32:51",
+                "type": "magento-module",
+                "description": "Unofficial Magento SecurePay SecureXML module with patches.",
+                "homepage": "https://github.com/aligent/Magento-SecurePay",
+                "support": {
+                    "source": "https://github.com/aligent/Magento-SecurePay/tree/master",
+                    "issues": "https://github.com/aligent/Magento-SecurePay/issues"
+                }
+            }
+        },
+        "aligent/personalisation": {
+            "dev-personalisation": {
+                "name": "aligent/personalisation",
+                "version": "dev-personalisation",
+                "version_normalized": "dev-personalisation",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "02ccb92a1a5151d15cc08f9dbc97bd207df986fc"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-01-20 00:07:12",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Display Recently viewed products using localStorage ",
+                "homepage": "https://git.assembla.com/aligent.magefeatures.git"
+            }
+        },
+        "aligent/remarketing": {
+            "dev-remarketing": {
+                "name": "aligent/remarketing",
+                "version": "dev-remarketing",
+                "version_normalized": "dev-remarketing",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.magefeatures.git",
+                    "reference": "f3013f8c28d58d0f6c7e5eb652cb3ef5aebc9266"
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-28 01:59:12",
+                "type": "magento-module",
+                "description": "Google remarketing."
+            }
+        },
+        "Aligent/Security": {
+            "dev-master": {
+                "name": "Aligent/Security",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Aligent_Security.git",
+                    "reference": "352e5ad020f54d70d28c5ab5370ce6c02891e833"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Aligent_Security/zipball/352e5ad020f54d70d28c5ab5370ce6c02891e833",
+                    "reference": "352e5ad020f54d70d28c5ab5370ce6c02891e833",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-04 01:02:51",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Luke Mills",
+                        "email": "luke@aligent.com.au"
+                    }
+                ],
+                "description": "Security patches for Magento.",
+                "support": {
+                    "source": "https://github.com/aligent/Aligent_Security/tree/master",
+                    "issues": "https://github.com/aligent/Aligent_Security/issues"
+                }
+            }
+        },
+        "aoepeople/aoe_templatehints": {
+            "v0.3.0": {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "v0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "e098fa6590866c190f1c0a600900845f31352baf"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/e098fa6590866c190f1c0a600900845f31352baf",
+                    "reference": "e098fa6590866c190f1c0a600900845f31352baf",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-02-20 08:42:15",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/v0.3.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            },
+            "v0.4.0": {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "v0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "90cb4e78440014d6626f5d1031bbcc769995e8a1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/90cb4e78440014d6626f5d1031bbcc769995e8a1",
+                    "reference": "90cb4e78440014d6626f5d1031bbcc769995e8a1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-05-04 05:14:34",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "mail@{firstname}-{lastname}.de"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/v0.4.0",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            },
+            "v0.4.1": {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "v0.4.1",
+                "version_normalized": "0.4.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "2aa57021ee1aef88cafd32c43d7329cb70817e69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/2aa57021ee1aef88cafd32c43d7329cb70817e69",
+                    "reference": "2aa57021ee1aef88cafd32c43d7329cb70817e69",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "aoemedia/aoe_templatehints": "*",
+                    "fbrnc/aoe_templatehints": "*"
+                },
+                "time": "2014-09-04 14:33:16",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "{firtname}.{lastname}@aoe.com"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/v0.4.1",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            },
+            "v0.4.2": {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "v0.4.2",
+                "version_normalized": "0.4.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "2577defa1b331f82180c1f4fa3d31ca0fc486bf2"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/2577defa1b331f82180c1f4fa3d31ca0fc486bf2",
+                    "reference": "2577defa1b331f82180c1f4fa3d31ca0fc486bf2",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "aoemedia/aoe_templatehints": "*",
+                    "fbrnc/aoe_templatehints": "*"
+                },
+                "time": "2015-03-25 22:37:20",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "{firtname}.{lastname}@aoe.com"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/v0.4.2",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            },
+            "dev-master": {
+                "name": "aoepeople/aoe_templatehints",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/AOEpeople/Aoe_TemplateHints.git",
+                    "reference": "deab5d9372eee7d6a9aa6626701a08c57828cd0e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/AOEpeople/Aoe_TemplateHints/zipball/deab5d9372eee7d6a9aa6626701a08c57828cd0e",
+                    "reference": "deab5d9372eee7d6a9aa6626701a08c57828cd0e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "replace": {
+                    "aoemedia/aoe_templatehints": "*",
+                    "fbrnc/aoe_templatehints": "*"
+                },
+                "time": "2015-05-01 17:28:19",
+                "type": "magento-module",
+                "license": [
+                    "GPLv3"
+                ],
+                "authors": [
+                    {
+                        "name": "Fabrizio Branca",
+                        "email": "{firtname}.{lastname}@aoe.com"
+                    }
+                ],
+                "description": "Advanced Template Hints for Magento",
+                "homepage": "http://www.fabrizio-branca.de/magento-advanced-template-hints-20.html",
+                "support": {
+                    "source": "https://github.com/AOEpeople/Aoe_TemplateHints/tree/master",
+                    "issues": "https://github.com/AOEpeople/Aoe_TemplateHints/issues"
+                }
+            }
+        },
+        "avstudnitz/fast-simple-import": {
+            "0.2.0": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.2.0",
+                "version_normalized": "0.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "9d963b3b36e77756eec62b3908d86e5d47ba1d54"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/9d963b3b36e77756eec62b3908d86e5d47ba1d54",
+                    "reference": "9d963b3b36e77756eec62b3908d86e5d47ba1d54",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-08-02 10:32:58",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.2.0",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.2.1": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.2.1",
+                "version_normalized": "0.2.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "de980a8f065f3583ad7f959f769087e25769eadc"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/de980a8f065f3583ad7f959f769087e25769eadc",
+                    "reference": "de980a8f065f3583ad7f959f769087e25769eadc",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-08-30 10:31:13",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.2.1",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.3.0": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.3.0",
+                "version_normalized": "0.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "92706bd751a9a4853148c601f7df061f2cf681d9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/92706bd751a9a4853148c601f7df061f2cf681d9",
+                    "reference": "92706bd751a9a4853148c601f7df061f2cf681d9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-09-11 07:24:34",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.3.0",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.4.0": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.4.0",
+                "version_normalized": "0.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "753a9de4c36ccabbc7c1a5692fa26ccf8f9c6512"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/753a9de4c36ccabbc7c1a5692fa26ccf8f9c6512",
+                    "reference": "753a9de4c36ccabbc7c1a5692fa26ccf8f9c6512",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-02-06 14:43:59",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.4.0",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.5.0": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "4056babc9361be18602a07c9b5963658e8b26a05"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/4056babc9361be18602a07c9b5963658e8b26a05",
+                    "reference": "4056babc9361be18602a07c9b5963658e8b26a05",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-02-23 17:17:45",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.5.0",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.6.0": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "c90038110005b4e291a4f853557df616d3ee8e9a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/c90038110005b4e291a4f853557df616d3ee8e9a",
+                    "reference": "c90038110005b4e291a4f853557df616d3ee8e9a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-05-23 13:43:09",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.6.0",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.6.1": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.6.1",
+                "version_normalized": "0.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "580ceaf0aecfd7d05c7fb8276a9cfd5c3d871ba4"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/580ceaf0aecfd7d05c7fb8276a9cfd5c3d871ba4",
+                    "reference": "580ceaf0aecfd7d05c7fb8276a9cfd5c3d871ba4",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-05-26 18:18:22",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.6.1",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.6.2": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.6.2",
+                "version_normalized": "0.6.2.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "f88dd9303336e89081279a7114d828a422ebae69"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/f88dd9303336e89081279a7114d828a422ebae69",
+                    "reference": "f88dd9303336e89081279a7114d828a422ebae69",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-05-27 20:36:39",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.6.2",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.6.3": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.6.3",
+                "version_normalized": "0.6.3.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "fca4327f4e93ce2762b38d48ef860f2c2cfa09aa"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/fca4327f4e93ce2762b38d48ef860f2c2cfa09aa",
+                    "reference": "fca4327f4e93ce2762b38d48ef860f2c2cfa09aa",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-05 14:14:41",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.6.3",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "0.6.4": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "0.6.4",
+                "version_normalized": "0.6.4.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "7a1c5155172dce9606e15bbe5915bdb9b7791dad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/7a1c5155172dce9606e15bbe5915bdb9b7791dad",
+                    "reference": "7a1c5155172dce9606e15bbe5915bdb9b7791dad",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-02 10:03:30",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/0.6.4",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-master": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "b5beca53d40133671548f827e4c4e9f4571cda08"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/b5beca53d40133671548f827e4c4e9f4571cda08",
+                    "reference": "b5beca53d40133671548f827e4c4e9f4571cda08",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-17 09:58:30",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/master",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-AttributeOptions": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-AttributeOptions",
+                "version_normalized": "dev-AttributeOptions",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "a179610c50d2cb2d93f8081736a483c2b2953f24"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/a179610c50d2cb2d93f8081736a483c2b2953f24",
+                    "reference": "a179610c50d2cb2d93f8081736a483c2b2953f24",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-02-23 11:27:14",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/AttributeOptions",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-attributes": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-attributes",
+                "version_normalized": "dev-attributes",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "6418110fc081e90a63f4daf7487a038154803c1c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/6418110fc081e90a63f4daf7487a038154803c1c",
+                    "reference": "6418110fc081e90a63f4daf7487a038154803c1c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-04-04 07:33:54",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/attributes",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-customer-wishlist": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-customer-wishlist",
+                "version_normalized": "dev-customer-wishlist",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "7f22e76fbf37191e0c7798a6febde19d4a5069f1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/7f22e76fbf37191e0c7798a6febde19d4a5069f1",
+                    "reference": "7f22e76fbf37191e0c7798a6febde19d4a5069f1",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-12-23 20:20:00",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/customer-wishlist",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-dev2": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-dev2",
+                "version_normalized": "dev-dev2",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "cc76031ccb5a1c023de4ce1a86ec04601439deb8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/cc76031ccb5a1c023de4ce1a86ec04601439deb8",
+                    "reference": "cc76031ccb5a1c023de4ce1a86ec04601439deb8",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-10-26 13:48:07",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/dev2",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-develop": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-develop",
+                "version_normalized": "dev-develop",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "eb1ff2a569b9699f44e0ba2397991ccbed003007"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/eb1ff2a569b9699f44e0ba2397991ccbed003007",
+                    "reference": "eb1ff2a569b9699f44e0ba2397991ccbed003007",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-29 18:57:47",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/develop",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-magento-1.5": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-magento-1.5",
+                "version_normalized": "dev-magento-1.5",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "2f53d0dd286de1098d8dbe0205e0e65323c48db7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/2f53d0dd286de1098d8dbe0205e0e65323c48db7",
+                    "reference": "2f53d0dd286de1098d8dbe0205e0e65323c48db7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2013-08-30 10:33:45",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/magento-1.5",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-only-exisiting-entities": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-only-exisiting-entities",
+                "version_normalized": "dev-only-exisiting-entities",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "983cb766e179df3e71230d26d2397c903cd765ee"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/983cb766e179df3e71230d26d2397c903cd765ee",
+                    "reference": "983cb766e179df3e71230d26d2397c903cd765ee",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-20 11:54:45",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/only-exisiting-entities",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            },
+            "dev-unittests-configurable": {
+                "name": "avstudnitz/fast-simple-import",
+                "version": "dev-unittests-configurable",
+                "version_normalized": "dev-unittests-configurable",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_FastSimpleImport.git",
+                    "reference": "51f83ef72ceda48a66715a92d8dae43f05b94a57"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_FastSimpleImport/zipball/51f83ef72ceda48a66715a92d8dae43f05b94a57",
+                    "reference": "51f83ef72ceda48a66715a92d8dae43f05b94a57",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-02-22 18:49:48",
+                "type": "magento-module",
+                "description": "Wrapper for Magento ImportExport functionality, which imports products and customers from arrays",
+                "homepage": "https://github.com/avstudnitz/AvS_FastSimpleImport",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_FastSimpleImport/tree/unittests-configurable",
+                    "issues": "https://github.com/avstudnitz/AvS_FastSimpleImport/issues"
+                }
+            }
+        },
+        "avstudnitz/scopehint": {
+            "0.5.0": {
+                "name": "avstudnitz/scopehint",
+                "version": "0.5.0",
+                "version_normalized": "0.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_ScopeHint.git",
+                    "reference": "e1b76885254ebfa520f07ad97fb51fac103b4f2e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_ScopeHint/zipball/e1b76885254ebfa520f07ad97fb51fac103b4f2e",
+                    "reference": "e1b76885254ebfa520f07ad97fb51fac103b4f2e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2013-08-06 18:59:11",
+                "type": "magento-module",
+                "description": "Creates a warning if a configuration setting is overwritten on a lower level (website or store view",
+                "homepage": "https://github.com/avstudnitz/AvS_ScopeHint",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_ScopeHint/tree/0.5.0",
+                    "issues": "https://github.com/avstudnitz/AvS_ScopeHint/issues"
+                }
+            },
+            "0.6.0": {
+                "name": "avstudnitz/scopehint",
+                "version": "0.6.0",
+                "version_normalized": "0.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_ScopeHint.git",
+                    "reference": "3e03924e59be89eddaff7be38cf2adb15cf1e24c"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_ScopeHint/zipball/3e03924e59be89eddaff7be38cf2adb15cf1e24c",
+                    "reference": "3e03924e59be89eddaff7be38cf2adb15cf1e24c",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-31 19:50:11",
+                "type": "magento-module",
+                "description": "Creates a warning if a configuration setting, product data or category data is overwritten on a lower level (website or store view)",
+                "homepage": "https://github.com/avstudnitz/AvS_ScopeHint",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_ScopeHint/tree/0.6.0",
+                    "issues": "https://github.com/avstudnitz/AvS_ScopeHint/issues"
+                }
+            },
+            "dev-master": {
+                "name": "avstudnitz/scopehint",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_ScopeHint.git",
+                    "reference": "6f63a2a8981b37811c5209c1e2bfa0bebe869c10"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_ScopeHint/zipball/6f63a2a8981b37811c5209c1e2bfa0bebe869c10",
+                    "reference": "6f63a2a8981b37811c5209c1e2bfa0bebe869c10",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-21 08:46:56",
+                "type": "magento-module",
+                "description": "Creates a warning if a configuration setting, product data or category data is overwritten on a lower level (website or store view)",
+                "homepage": "https://github.com/avstudnitz/AvS_ScopeHint",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_ScopeHint/tree/master",
+                    "issues": "https://github.com/avstudnitz/AvS_ScopeHint/issues"
+                }
+            },
+            "dev-module-hint": {
+                "name": "avstudnitz/scopehint",
+                "version": "dev-module-hint",
+                "version_normalized": "dev-module-hint",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/avstudnitz/AvS_ScopeHint.git",
+                    "reference": "682f6dcd9ea36e2abecaf8b5a3687636a5cffed5"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/avstudnitz/AvS_ScopeHint/zipball/682f6dcd9ea36e2abecaf8b5a3687636a5cffed5",
+                    "reference": "682f6dcd9ea36e2abecaf8b5a3687636a5cffed5",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-05 09:55:09",
+                "type": "magento-module",
+                "description": "Creates a warning if a configuration setting, product data or category data is overwritten on a lower level (website or store view)",
+                "homepage": "https://github.com/avstudnitz/AvS_ScopeHint",
+                "support": {
+                    "source": "https://github.com/avstudnitz/AvS_ScopeHint/tree/module-hint",
+                    "issues": "https://github.com/avstudnitz/AvS_ScopeHint/issues"
+                }
+            }
+        },
+        "connect20/lib_phpseclib": {
+            "1.5.0.0": {
+                "name": "connect20/lib_phpseclib",
+                "version": "1.5.0.0",
+                "version_normalized": "1.5.0.0",
+                "dist": {
+                    "type": "tar",
+                    "url": "https://raw.github.com/magento-hackathon/composer-repository/master/repairedConnectPackages/fixed_Lib_Phpseclib-1.5.0.0.tgz",
+                    "reference": null,
+                    "shasum": null
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "type": "magento-module",
+                "extra": {
+                    "package-xml": "package.xml"
+                }
+            }
+        },
+        "ho-nl/ho_import": {
+            "1.1": {
+                "name": "ho-nl/ho_import",
+                "version": "1.1",
+                "version_normalized": "1.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "4a4125e5fe86feb75b07145ee769bcd38a35adf8"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/4a4125e5fe86feb75b07145ee769bcd38a35adf8",
+                    "reference": "4a4125e5fe86feb75b07145ee769bcd38a35adf8",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "dev-master",
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-02-15 12:39:26",
+                "type": "magento-module",
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.1",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.2": {
+                "name": "ho-nl/ho_import",
+                "version": "1.2",
+                "version_normalized": "1.2.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "d375da0ee62892cdea8bf08a02c31b0985d39b8b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/d375da0ee62892cdea8bf08a02c31b0985d39b8b",
+                    "reference": "d375da0ee62892cdea8bf08a02c31b0985d39b8b",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "dev-master",
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-05-05 11:40:44",
+                "type": "magento-module",
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.2",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.3": {
+                "name": "ho-nl/ho_import",
+                "version": "1.3",
+                "version_normalized": "1.3.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "75e4729aca03e5c142f8f7f75ea2e42058cabeb1"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/75e4729aca03e5c142f8f7f75ea2e42058cabeb1",
+                    "reference": "75e4729aca03e5c142f8f7f75ea2e42058cabeb1",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "dev-master",
+                    "magento-hackathon/magento-composer-installer": "dev-master"
+                },
+                "time": "2014-06-18 08:58:15",
+                "type": "magento-module",
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.3",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.4": {
+                "name": "ho-nl/ho_import",
+                "version": "1.4",
+                "version_normalized": "1.4.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "d2cfbb076fec37d61e2a5b479fdda7b2e7217456"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/d2cfbb076fec37d61e2a5b479fdda7b2e7217456",
+                    "reference": "d2cfbb076fec37d61e2a5b479fdda7b2e7217456",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-01 09:34:56",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.4",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.5": {
+                "name": "ho-nl/ho_import",
+                "version": "1.5",
+                "version_normalized": "1.5.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "9fdd2876bce0249ebbbf556244ba1ce608ae02ca"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/9fdd2876bce0249ebbbf556244ba1ce608ae02ca",
+                    "reference": "9fdd2876bce0249ebbbf556244ba1ce608ae02ca",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-18 13:50:52",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.5",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.6": {
+                "name": "ho-nl/ho_import",
+                "version": "1.6",
+                "version_normalized": "1.6.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "27a1fd8e57fd858825bbde152a3afb87b1be774b"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/27a1fd8e57fd858825bbde152a3afb87b1be774b",
+                    "reference": "27a1fd8e57fd858825bbde152a3afb87b1be774b",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-03 11:52:05",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.6",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "1.6.1": {
+                "name": "ho-nl/ho_import",
+                "version": "1.6.1",
+                "version_normalized": "1.6.1.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "bd1d407e1054568baf51b55a5f9b8e79bff07a9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/bd1d407e1054568baf51b55a5f9b8e79bff07a9d",
+                    "reference": "bd1d407e1054568baf51b55a5f9b8e79bff07a9d",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-04 09:46:14",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.6.1",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "dev-master": {
+                "name": "ho-nl/ho_import",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "bd1d407e1054568baf51b55a5f9b8e79bff07a9d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/bd1d407e1054568baf51b55a5f9b8e79bff07a9d",
+                    "reference": "bd1d407e1054568baf51b55a5f9b8e79bff07a9d",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-04 09:46:14",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/1.6.1",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "dev-dev": {
+                "name": "ho-nl/ho_import",
+                "version": "dev-dev",
+                "version_normalized": "dev-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "97d6598b67e2a6134ad1dfe5d588d1a7fd557fa7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/97d6598b67e2a6134ad1dfe5d588d1a7fd557fa7",
+                    "reference": "97d6598b67e2a6134ad1dfe5d588d1a7fd557fa7",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-27 10:59:55",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/dev",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            },
+            "dev-tmp": {
+                "name": "ho-nl/ho_import",
+                "version": "dev-tmp",
+                "version_normalized": "dev-tmp",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/ho-nl/Ho_Import.git",
+                    "reference": "6421f255c16300717d8be2c0420ecdc161ce8a25"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/ho-nl/Ho_Import/zipball/6421f255c16300717d8be2c0420ecdc161ce8a25",
+                    "reference": "6421f255c16300717d8be2c0420ecdc161ce8a25",
+                    "shasum": ""
+                },
+                "require": {
+                    "avstudnitz/fast-simple-import": "*",
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-20 10:01:20",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Paul Hachmang - H&O",
+                        "email": "paul@h-o.nl"
+                    }
+                ],
+                "description": "A Magento Module that allows you to map fields and import all sorts of file formats, sources and entities. Fast and Low Memory.",
+                "homepage": "https://github.com/ho-nl/Ho_Import",
+                "support": {
+                    "source": "https://github.com/ho-nl/Ho_Import/tree/tmp",
+                    "issues": "https://github.com/ho-nl/Ho_Import/issues"
+                }
+            }
+        },
+        "hws47a/vf-custom-menu": {
+            "v2014": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "v2014",
+                "version_normalized": "2014.0.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "d1a33fe36a692aae43fa025a88735cf0cc389fd9"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/d1a33fe36a692aae43fa025a88735cf0cc389fd9",
+                    "reference": "d1a33fe36a692aae43fa025a88735cf0cc389fd9",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-12-19 05:42:19",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/v2014"
+                }
+            },
+            "v2014.1": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "v2014.1",
+                "version_normalized": "2014.1.0.0",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "86c1b339bff1cf773a5561d0062cc150a5f4d732"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/86c1b339bff1cf773a5561d0062cc150a5f4d732",
+                    "reference": "86c1b339bff1cf773a5561d0062cc150a5f4d732",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-11 05:49:07",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/v2014.1"
+                }
+            },
+            "dev-master": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "714621725adf1b1d973d6930d228365f26663511"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/714621725adf1b1d973d6930d228365f26663511",
+                    "reference": "714621725adf1b1d973d6930d228365f26663511",
+                    "shasum": ""
+                },
+                "time": "2013-08-29 06:01:45",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/master"
+                }
+            },
+            "dev-feature/attribute-rewrites": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-feature/attribute-rewrites",
+                "version_normalized": "dev-feature/attribute-rewrites",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "e2eec21380a4f2975323e1bfe660b8ff73531481"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/e2eec21380a4f2975323e1bfe660b8ff73531481",
+                    "reference": "e2eec21380a4f2975323e1bfe660b8ff73531481",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-28 03:53:40",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/feature/attribute-rewrites"
+                }
+            },
+            "dev-feature/expandable-sub-nav": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-feature/expandable-sub-nav",
+                "version_normalized": "dev-feature/expandable-sub-nav",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "27e7517c18e6f47da48456183588a26e38e1fe7d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/27e7517c18e6f47da48456183588a26e38e1fe7d",
+                    "reference": "27e7517c18e6f47da48456183588a26e38e1fe7d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-07-15 04:23:24",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/feature/expandable-sub-nav"
+                }
+            },
+            "dev-feature/recursive": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-feature/recursive",
+                "version_normalized": "dev-feature/recursive",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "da2b8c9e219addd620e4ce93766263313b5e4084"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/da2b8c9e219addd620e4ce93766263313b5e4084",
+                    "reference": "da2b8c9e219addd620e4ce93766263313b5e4084",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-02-24 01:27:43",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/feature/recursive"
+                }
+            },
+            "dev-feature/static-blocks": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-feature/static-blocks",
+                "version_normalized": "dev-feature/static-blocks",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "4aa016961585695480db039ec4f7edc64916c4ad"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/4aa016961585695480db039ec4f7edc64916c4ad",
+                    "reference": "4aa016961585695480db039ec4f7edc64916c4ad",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-29 05:58:44",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/feature/static-blocks"
+                }
+            },
+            "dev-production": {
+                "name": "hws47a/vf-custom-menu",
+                "version": "dev-production",
+                "version_normalized": "dev-production",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/VF_CustomMenu.git",
+                    "reference": "811957daf90b196712252cd1ecc36b3a7633388f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/VF_CustomMenu/zipball/811957daf90b196712252cd1ecc36b3a7633388f",
+                    "reference": "811957daf90b196712252cd1ecc36b3a7633388f",
+                    "shasum": ""
+                },
+                "time": "2014-02-04 03:14:30",
+                "type": "magento-module",
+                "license": [
+                    "OSL 3.0"
+                ],
+                "authors": [
+                    {
+                        "name": "Vladimir Fishchenko",
+                        "email": "vladimir@fishchenko.com"
+                    }
+                ],
+                "description": "A custom magento menu",
+                "support": {
+                    "source": "https://github.com/aligent/VF_CustomMenu/tree/production"
+                }
+            }
+        },
+        "jonathanday/commercebug": {
+            "dev-commercebug": {
+                "name": "jonathanday/commercebug",
+                "version": "dev-commercebug",
+                "version_normalized": "dev-commercebug",
+                "source": {
+                    "type": "git",
+                    "url": "git@git.assembla.com:aligent.git",
+                    "reference": "4d4ffc83ea39c4ea4af2e6e831a56ce3d618d779"
+                },
+                "time": "2014-03-24 01:11:29",
+                "type": "magento-module",
+                "authors": [
+                    {
+                        "name": "Alan Storm",
+                        "email": ""
+                    }
+                ]
+            }
+        },
+        "organicinternet/simpleconfigurableproducts": {
+            "dev-master": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "4a9e1fbff85a415ff83eeca0e3012d4d133a2dc7"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/4a9e1fbff85a415ff83eeca0e3012d4d133a2dc7",
+                    "reference": "4a9e1fbff85a415ff83eeca0e3012d4d133a2dc7",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-07 07:22:18",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/master"
+                }
+            },
+            "dev-enterprise-giftcards": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-enterprise-giftcards",
+                "version_normalized": "dev-enterprise-giftcards",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "eb9dcc347b0141b8d2f5a737e5c910780c8de8ed"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/eb9dcc347b0141b8d2f5a737e5c910780c8de8ed",
+                    "reference": "eb9dcc347b0141b8d2f5a737e5c910780c8de8ed",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-02-04 03:39:46",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/enterprise-giftcards"
+                }
+            },
+            "dev-feature/galleria-support": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-feature/galleria-support",
+                "version_normalized": "dev-feature/galleria-support",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "0cfcb319f74777243202cec4db9decf81cce8bbb"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/0cfcb319f74777243202cec4db9decf81cce8bbb",
+                    "reference": "0cfcb319f74777243202cec4db9decf81cce8bbb",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-25 23:33:11",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/feature/galleria-support"
+                }
+            },
+            "dev-indexing-bug": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-indexing-bug",
+                "version_normalized": "dev-indexing-bug",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "d29abff5538478beb455f82694d816d1c9f3e750"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/d29abff5538478beb455f82694d816d1c9f3e750",
+                    "reference": "d29abff5538478beb455f82694d816d1c9f3e750",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-30 01:07:38",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/indexing-bug"
+                }
+            },
+            "dev-pdp-events": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-pdp-events",
+                "version_normalized": "dev-pdp-events",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "1621e2be320b08a93841dc185e7a759a8bb5797a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/1621e2be320b08a93841dc185e7a759a8bb5797a",
+                    "reference": "1621e2be320b08a93841dc185e7a759a8bb5797a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-08-22 04:49:31",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/pdp-events"
+                }
+            },
+            "dev-project/nu": {
+                "name": "organicinternet/simpleconfigurableproducts",
+                "version": "dev-project/nu",
+                "version_normalized": "dev-project/nu",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/magento-configurable-simple.git",
+                    "reference": "674c291644514346ceafb9d6a6f50605a0fb0439"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/magento-configurable-simple/zipball/674c291644514346ceafb9d6a6f50605a0fb0439",
+                    "reference": "674c291644514346ceafb9d6a6f50605a0fb0439",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-11-12 08:14:43",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Enhancement to Magento to allow simple product prices to be used instead of the default special-case configurable product prices",
+                "homepage": "https://github.com/aligent/magento-configurable-simple",
+                "support": {
+                    "source": "https://github.com/aligent/magento-configurable-simple/tree/project/nu"
+                }
+            }
+        },
+        "phoenix/varnishcache": {
+            "dev-master": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "fe07313d9bd293c2814d29cddb5a7a884b829d35"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/fe07313d9bd293c2814d29cddb5a7a884b829d35",
+                    "reference": "fe07313d9bd293c2814d29cddb5a7a884b829d35",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-20 00:25:02",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/master",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            },
+            "dev-bugfix/no_session_access_in_setup_scripts": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-bugfix/no_session_access_in_setup_scripts",
+                "version_normalized": "dev-bugfix/no_session_access_in_setup_scripts",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "d92c83eaebc9a79b605e56649756d1837af3d78d"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/d92c83eaebc9a79b605e56649756d1837af3d78d",
+                    "reference": "d92c83eaebc9a79b605e56649756d1837af3d78d",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-03-24 00:35:55",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/bugfix/no_session_access_in_setup_scripts",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            },
+            "dev-feature/ee-1.13-support": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-feature/ee-1.13-support",
+                "version_normalized": "dev-feature/ee-1.13-support",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "7abd89eb26e122a550b5acdd8490111ba02a960e"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/7abd89eb26e122a550b5acdd8490111ba02a960e",
+                    "reference": "7abd89eb26e122a550b5acdd8490111ba02a960e",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-05-25 23:47:57",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/feature/ee-1.13-support",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            },
+            "dev-feature/form-key": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-feature/form-key",
+                "version_normalized": "dev-feature/form-key",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "5cde30456522233ee68a385198aad7ad9905dc43"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/5cde30456522233ee68a385198aad7ad9905dc43",
+                    "reference": "5cde30456522233ee68a385198aad7ad9905dc43",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2014-09-01 04:21:47",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/feature/form-key",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            },
+            "dev-feature/form-key-template": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-feature/form-key-template",
+                "version_normalized": "dev-feature/form-key-template",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "3858fb9029eec0b3abdc11400c5c07c1fa18d23f"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/3858fb9029eec0b3abdc11400c5c07c1fa18d23f",
+                    "reference": "3858fb9029eec0b3abdc11400c5c07c1fa18d23f",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-01-13 23:59:48",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/feature/form-key-template",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            },
+            "dev-hotfix/add-common-excluded-routes": {
+                "name": "phoenix/varnishcache",
+                "version": "dev-hotfix/add-common-excluded-routes",
+                "version_normalized": "dev-hotfix/add-common-excluded-routes",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/aligent/Phoenix_VarnishCache.git",
+                    "reference": "96555bd979c353d466a5519f3dc406b6da87523a"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/aligent/Phoenix_VarnishCache/zipball/96555bd979c353d466a5519f3dc406b6da87523a",
+                    "reference": "96555bd979c353d466a5519f3dc406b6da87523a",
+                    "shasum": ""
+                },
+                "require": {
+                    "magento-hackathon/magento-composer-installer": "*"
+                },
+                "time": "2015-04-19 23:59:23",
+                "type": "magento-module",
+                "license": [
+                    "OSL-3.0"
+                ],
+                "description": "Magento extension to control Varnish and trigger cache invalidation programatically.",
+                "homepage": "https://github.com/aligent/Phoenix_VarnishCache",
+                "support": {
+                    "source": "https://github.com/aligent/Phoenix_VarnishCache/tree/hotfix/add-common-excluded-routes",
+                    "issues": "https://github.com/aligent/Phoenix_VarnishCache/issues"
+                }
+            }
+        },
+        "zain/dummy": {
+            "dev-master": {
+                "name": "zain/dummy",
+                "version": "dev-master",
+                "version_normalized": "9999999-dev",
+                "source": {
+                    "type": "git",
+                    "url": "https://github.com/zainengineer/dummy.git",
+                    "reference": "1deddfc746324a6620f384cd48b27fa202259ff0"
+                },
+                "dist": {
+                    "type": "zip",
+                    "url": "https://api.github.com/repos/zainengineer/dummy/zipball/1deddfc746324a6620f384cd48b27fa202259ff0",
+                    "reference": "1deddfc746324a6620f384cd48b27fa202259ff0",
+                    "shasum": ""
+                },
+                "time": "2015-05-27 07:48:01",
+                "type": "library",
+                "authors": [
+                    {
+                        "name": "Zain ul abidin",
+                        "email": "zain@aligent.com.au"
+                    }
+                ],
+                "description": "Dummy to test composer and satis",
+                "support": {
+                    "source": "https://github.com/zainengineer/dummy/tree/master",
+                    "issues": "https://github.com/zainengineer/dummy/issues"
+                }
+            }
+        }
+    }
+}
